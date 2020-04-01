@@ -1,0 +1,8 @@
+desc
+1 = read text.txt
+2 = replace . ?
+3 = sort
+4 = replace , !
+5 = write text_out.txt
+csed
+1 -> 2 -> 4 -> 3 -> 5
